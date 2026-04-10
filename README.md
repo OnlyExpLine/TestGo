@@ -79,3 +79,7 @@
 
 ```bash
 go test ./notifier -race -v
+
+Для работы также была использована библотека
+```bash
+golang.org/x/time v0.15.0
